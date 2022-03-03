@@ -8,7 +8,7 @@ function ProjectCard({project}) {
             <label className='project-title'>{project.title}</label>
             <div className='project-links'>
                 {project.demo && <a className='project-link' href=
-                {project.demo} target="_blank">
+                {project.demo} target="_blank" rel="noreferrer">
                     <div className='link-button'>
                     <BsGlobe2/>Demo
                     </div>
@@ -30,7 +30,7 @@ function ProjectCard({project}) {
             </div>
 
         </div>
-        <img src={project.image} className="project-photo"/>
+        <img src={project.image} className="project-photo" alt="project_images"/>
     </div>
   )
 }

@@ -1,7 +1,6 @@
 import React from 'react'
 import SocialContact from '../../common/social-contact/index'
 import Seperator from '../../common/social-contact/seperator/index'
-import {  FaDownload } from "react-icons/fa";
 import "./contact.css"
 function Contact() {
   return (
@@ -14,7 +13,7 @@ function Contact() {
             <SocialContact/>
           </div>
           <div className='download'>
-            <a download href="https://drive.google.com/file/d/1Islz_-ipIaM81wuEHzwYcD5gozFZfgSl/view?usp=sharing" target="_blank">
+            <a download href="https://drive.google.com/file/d/1Islz_-ipIaM81wuEHzwYcD5gozFZfgSl/view?usp=sharing" target="_blank" rel="noreferrer">
               
               View Resume
             </a>

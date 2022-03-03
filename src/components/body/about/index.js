@@ -11,7 +11,7 @@ function About() {
             <br/>I Love Building Web Applications
           </div>
           <div className='about-photo'>
-            <img className='picture' src={require("../../../assets/coding.png")}/>
+            <img className='picture' src={require("../../../assets/coding.png")} alt="coder_image"/>
           </div>
 
         </div>
