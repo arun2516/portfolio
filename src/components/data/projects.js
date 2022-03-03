@@ -22,7 +22,7 @@ export const ProjectData=[
         title:"OYO_Clone",
         about:"This is the Fullstack OYO_clone Project which is build by using the MERN stack. Customer can Book rooms through this portal and admin can add rooms ",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
-        demo:"oyoclone.netlify.app",
+        demo:"https://oyoclone.netlify.app",
         github:"https://github.com/arun2516/oyo_clone_frontend",
         image:require("../../assets/oyo.png")
     },
