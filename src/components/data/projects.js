@@ -19,6 +19,15 @@ export const ProjectData=[
     },
     {
         id:1,
+        title:"OYO_Clone",
+        about:"This is the Fullstack OYO_clone Project which is build by using the MERN stack. Customer can Book rooms through this portal and admin can add rooms ",
+        tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
+        demo:"oyoclone.netlify.app",
+        github:"https://github.com/arun2516/oyo_clone_frontend",
+        image:require("../../assets/oyo.png")
+    },
+    {
+        id:1,
         title:"Goldling",
         about:"This is the Fullstack Project which is build by using the MERN stack. Customer can see the daily Gold rates across the differenr states in India through this Goldling Application and also customer who want to sell their Gold can use this Goldling Application to sell their Gold",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
