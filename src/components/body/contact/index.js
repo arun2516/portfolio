@@ -14,9 +14,9 @@ function Contact() {
             <SocialContact/>
           </div>
           <div className='download'>
-            <a download href={require("../../../assets/arun pandian resume .docx")}>
-              <FaDownload className='download-icon'/>
-              Download Resume
+            <a download href="https://drive.google.com/file/d/1Islz_-ipIaM81wuEHzwYcD5gozFZfgSl/view?usp=sharing" target="_blank">
+              
+              View Resume
             </a>
           </div>
         </div>

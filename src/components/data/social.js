@@ -1,22 +1,12 @@
 export const SocialData=[
     {
-        platform:"instagaram",
-        link:"www.instagram.com",
-        icon:require("../../assets/instagram (1).png")
-    },
-    {
-        platform:"facebook",
-        link:"www.facebook.com",
-        icon:require("../../assets/facebook (3).png")
-    },
-    {
         platform:"linkedin",
-        link:"www.linkedin.com",
+        link:"https://www.linkedin.com/in/arun-pandian-60320876/",
         icon:require("../../assets/linkedin (1).png")
     },
     {
-        platform:"twitter",
-        link:"www.twitter.com",
-        icon:require("../../assets/twitter (1).png")
+        platform:"Github",
+        link:"https://github.com/arun2516",
+        icon:require("../../assets/github (1).png")
     }
 ]

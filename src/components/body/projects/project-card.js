@@ -8,7 +8,7 @@ function ProjectCard({project}) {
             <label className='project-title'>{project.title}</label>
             <div className='project-links'>
                 {project.demo && <a className='project-link' href=
-                {project.demo}>
+                {project.demo} target="_blank">
                     <div className='link-button'>
                     <BsGlobe2/>Demo
                     </div>
