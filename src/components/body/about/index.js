@@ -14,7 +14,7 @@ function About() {
             <div style={{color: 'blue', marginTop:"10px", fontFamily:"Work Sans"}}>
             <Typewriter
             strings={[
-              'MERN Stack Developer',
+              'MERN Stack Web Developer',
               'Continuously Learning',
             ]}
           /></div>
