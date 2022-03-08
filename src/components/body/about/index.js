@@ -1,6 +1,5 @@
 import React from 'react'
 import Typewriter from './Typewriter'
-import SocialContact from "../../common/social-contact/index"
 import "./about.css"
 import g from "../../../assets/resume (2).png"
 function About() {
