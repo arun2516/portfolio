@@ -5,7 +5,8 @@ export const ProjectData=[
         about:"This is the Fullstack Ecommerce Project which is build by using the MERN stack.customer can buy products and pay through online",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
         demo:"https://shoppeestop.netlify.app/",
-        github:"https://github.com/arun2516/Ecommerce_front",
+        githubf:"https://github.com/arun2516/Ecommerce_front",
+        githubb:"https://github.com/arun2516/Ecommerce_back",
         image:require("../../assets/Ecom.png")
     },
     {
@@ -14,7 +15,8 @@ export const ProjectData=[
         about:"This is the Fullstack Food ordering Project which is build by using the MERN stack. Customer can order food through this portal and vendor can add foods ",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
         demo:"https://foodzonie.netlify.app",
-        github:"https://github.com/arun2516/food_zone_frontend",
+        githubf:"https://github.com/arun2516/food_zone_frontend",
+        githubb:"https://github.com/arun2516/food_zone_backend",
         image:require("../../assets/food.png")
     },
     {
@@ -23,7 +25,8 @@ export const ProjectData=[
         about:"This is the Fullstack OYO_clone Project which is build by using the MERN stack. Customer can Book rooms through this portal and admin can add rooms ",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
         demo:"https://oyoclone.netlify.app",
-        github:"https://github.com/arun2516/oyo_clone_frontend",
+        githubf:"https://github.com/arun2516/oyo_clone_frontend",
+        githubb:"https://github.com/arun2516/oyo_clone_backend",
         image:require("../../assets/oyo.png")
     },
     {
@@ -32,7 +35,8 @@ export const ProjectData=[
         about:"This is the Fullstack Project which is build by using the MERN stack. Customer can see the daily Gold rates across the differenr states in India through this Goldling Application and also customer who want to sell their Gold can use this Goldling Application to sell their Gold",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
         demo:"https://goldling.netlify.app/",
-        github:"https://github.com/arun2516/gold_front",
+        githubf:"https://github.com/arun2516/gold_front",
+        githubb:"https://github.com/arun2516/gold_back",
         image:require("../../assets/goldwebscr.png")
     },
     {
@@ -41,7 +45,8 @@ export const ProjectData=[
         about:"This is the Fullstack Project which is build by using the MERN stack. Customer can get High Quality automobile service through this Buckle-Up application.Buckle-Up provides..Battery Replacement, car service package etc...",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
         demo:"https://buckleup.netlify.app/",
-        github:"https://github.com/arun2516/carservice-front",
+        githubf:"https://github.com/arun2516/carservice-front",
+        githubb:"https://github.com/arun2516/carservice_back",
         image:require("../../assets/buckwebscr.png")
     },
     {
@@ -50,7 +55,8 @@ export const ProjectData=[
         about:"This is the Fullstack Bike_Rental Project which is build by using the MERN stack. Customer can book bikes through this portal and manager can add bikes  ",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
         demo:"https://festive-heyrovsky-f2336a.netlify.app/manager/bikes",
-        github:"https://github.com/arun2516/Bike_Rental_front",
+        githubf:"https://github.com/arun2516/Bike_Rental_front",
+        githubb:"https://github.com/arun2516/Bike_Rental_Back",
         image:require("../../assets/Bike.png")
     }
   

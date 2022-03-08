@@ -14,25 +14,8 @@
     align-items: center;
     margin: 16px 0px;
 }
-.contact-left{
-    max-width: 60%;
-    font-size: 20px;
-    text-align: center;
-}
-.download{
-    background-color: aquamarine;
-    padding:8px 16px;
-    font-size: 24px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 4px;
 
-}
-.download a{
-    text-decoration: none;
-    color: black;
-}
+
 
 @media only screen and (max-width:720px){
     .contact-container{
@@ -40,13 +23,6 @@
         justify-content: center;
         align-items: center;
     }
-    .contact-left{
-        max-width: 100%;
-        font-size: 16px;
-        margin-bottom: 12px;
-    }
-    .download{
-        font-size: 16px;
-    }
+   
 
 }

@@ -13,10 +13,16 @@ function ProjectCard({project}) {
                     <BsGlobe2/>Demo
                     </div>
                     </a>}
-                {project.github && <a className='project-link' href=
-                {project.github}>
+                {project.githubf && <a className='project-link' href=
+                {project.githubf} target="_blank" rel="noreferrer">
                     <div className='link-button'>
-                    <i class="devicon-github-original colored"></i>Github
+                    <i class="devicon-github-original colored"></i>Frontend
+                    </div>
+                    </a>}
+                    {project.githubb && <a className='project-link' href=
+                {project.githubb} target="_blank" rel="noreferrer">
+                    <div className='link-button'>
+                    <i class="devicon-github-original colored"></i>Backend
                     </div>
                     </a>}
             </div>

@@ -1,4 +1,5 @@
 import React from 'react'
+import { ImMan } from "react-icons/im";
 import { AiOutlineCloseCircle } from "react-icons/ai";
 import "./mobile.css"
 import { BsNewspaper } from "react-icons/bs";
@@ -12,6 +13,11 @@ function Mobile({isOpen, setIsOpen}) {
       <AiOutlineCloseCircle/>
       </div>
       <div className='mobile-options'>
+      <div className='mobile-option'>
+        <a href='#about2'>
+          <ImMan className='option-icon'/>About
+        </a>
+      </div>
       <div className='mobile-option'>
         <a href='#project'>
           <BsNewspaper className='option-icon'/>Projects

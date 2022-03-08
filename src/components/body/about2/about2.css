@@ -1,33 +1,16 @@
-.about{
+.about2{
     padding-bottom: 48px;
 
 }
-
-  .download{
-      margin-top:100px;
-    background-color: aquamarine;
-    padding:8px 16px;
-    font-size: 24px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 4px;
-
-}
-.social-contact{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.social-icon-div{
-    padding: 6px;
-    cursor: pointer;
-    margin: 6px;
-}
-.social-icon{
-    height: 80px;
-}
-
+.typewriterWrapper {
+    font-size: 2.2em;
+    color: #be6adf;
+    font-weight: 600;
+  }
+  .typewriterCursor {
+    font-size: 2.4em;
+    color: #b562d6;
+  }
 .about-top{
     display: flex;
     flex-direction: row;
@@ -36,6 +19,7 @@
 }
 .picture{
     height: 420px;
+    
 }
 .about-info{
     font-size: 24px;
@@ -52,13 +36,6 @@
         justify-content: center;
         align-items: center;
     }
-    .social-icon{
-        height: 32px;
-    }
-    .download{
-        font-size: 16px;
-    }
-
     .picture{
         height: 280px;
     }
