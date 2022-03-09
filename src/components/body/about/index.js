@@ -31,7 +31,7 @@ function About() {
           Resume
         </div>
         <div className='social-contact'>
-        <a href="https://drive.google.com/file/d/1Islz_-ipIaM81wuEHzwYcD5gozFZfgSl/view?usp=sharing" target='_blank' rel="noreferrer">
+        <a href="https://drive.google.com/file/d/156c_uJj1OMqbptdJUKKGLtY1_5ed52J1/view?usp=sharing" target='_blank' rel="noreferrer">
                     <div className='social-icon-div'>
                         <img src={g} className="social-icon" alt="resume_icons"/>
                     </div>
