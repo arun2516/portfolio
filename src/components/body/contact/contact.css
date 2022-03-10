@@ -7,6 +7,10 @@
     font-size: 32px;
     font-weight:700 ;
 }
+.section-title_2{
+    font-size: 16px;
+    font-weight:100 ;
+}
 .contact-container{
     display: flex;
     justify-content: center;
@@ -17,11 +21,21 @@
 
 
 @media only screen and (max-width:720px){
+    
+    
+    .social-container-2{
+        flex-direction: column;
+    }
     .contact-container{
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
-   
+   .social-container-div{
+       margin:6%;
+   }
+   .msg{
+       font-size: 15px;
+   }
 
 }
