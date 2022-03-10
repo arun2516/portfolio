@@ -13,7 +13,6 @@
   }
 .about-top{
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
     align-items:center;
 }
@@ -30,7 +29,7 @@
     font-size: 32px;
 }
 
-@media only screen and(max-width:720px){
+@media only screen and (max-width:720px){
     .about-top{
         flex-direction: column;
         justify-content: center;
