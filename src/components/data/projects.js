@@ -2,7 +2,7 @@ export const ProjectData=[
     {
         id:1,
         title:"Shopp.My",
-        about:"This is the Fullstack Ecommerce Project which is build by using the MERN stack.customer can buy products and pay through online",
+        about:"Shopp.my is the Ecommerce Web-Application. This application have specifications like users can add the products to the cart and checkout by paying through the online payment.",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
         demo:"https://shoppeestop.netlify.app/",
         githubf:"https://github.com/arun2516/Ecommerce_front",
@@ -12,7 +12,7 @@ export const ProjectData=[
     {
         id:1,
         title:"Food_Zone",
-        about:"This is the Fullstack Food ordering Project which is build by using the MERN stack. Customer can order food through this portal and vendor can add foods ",
+        about:"Foos_Zone is the application which is inspired by Zomato. This Application allows User to order food from different vendors according to their need. user can checkout the food by paying through the online payment",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
         demo:"https://foodzonie.netlify.app",
         githubf:"https://github.com/arun2516/food_zone_frontend",
@@ -22,7 +22,7 @@ export const ProjectData=[
     {
         id:1,
         title:"OYO_Clone",
-        about:"This is the Fullstack OYO_clone Project which is build by using the MERN stack. Customer can Book rooms through this portal and admin can add rooms ",
+        about:"This is Fullstack MERN website made it as a OYO.This application Allow User to Book rooms across Different Places and also cancel their Booking",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
         demo:"https://oyoclone.netlify.app",
         githubf:"https://github.com/arun2516/oyo_clone_frontend",
@@ -32,7 +32,7 @@ export const ProjectData=[
     {
         id:1,
         title:"Goldling",
-        about:"This is the Fullstack Project which is build by using the MERN stack. Customer can see the daily Gold rates across the differenr states in India through this Goldling Application and also customer who want to sell their Gold can use this Goldling Application to sell their Gold",
+        about:"Goldling is the Fullstack MERN Website. User can see the daily Gold rates across the differenr states in India through this Goldling Application and also User who want to sell their Gold can use this Goldling Application to sell their Gold",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
         demo:"https://goldling.netlify.app/",
         githubf:"https://github.com/arun2516/gold_front",
@@ -42,7 +42,7 @@ export const ProjectData=[
     {
         id:1,
         title:"Buckle-Up",
-        about:"This is the Fullstack Project which is build by using the MERN stack. Customer can get High Quality automobile service through this Buckle-Up application.Buckle-Up provides..Battery Replacement, car service package etc...",
+        about:"Buckle-up is the Car service Booking Application . Through this application User can get High Quality automobile service.Buckle-Up provides..Battery Replacement, car service package etc...",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
         demo:"https://buckleup.netlify.app/",
         githubf:"https://github.com/arun2516/carservice-front",
@@ -52,7 +52,7 @@ export const ProjectData=[
     {
         id:1,
         title:"Bike_Rental",
-        about:"This is the Fullstack Bike_Rental Project which is build by using the MERN stack. Customer can book bikes through this portal and manager can add bikes  ",
+        about:"Bike_Rental is the Fullstack  MERN Website.This application Allows User to book bikes through this portal and manager can add bikes  ",
         tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
         demo:"https://festive-heyrovsky-f2336a.netlify.app/manager/bikes",
         githubf:"https://github.com/arun2516/Bike_Rental_front",
