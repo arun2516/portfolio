@@ -127,7 +127,18 @@ function Contact() {
                 name="mobile"
                 label="Mobile Number"
                 id="mobile"
-                autoComplete="Mobile Number"
+                autoComplete="mobile"
+              />
+               <TextField
+                margin="normal"
+                required
+                fullWidth
+                multiline
+                rows={5}
+                name="message"
+                label="Message"
+                id="message"
+                autoComplete="message"
               />
               <Button
                 type="submit"
