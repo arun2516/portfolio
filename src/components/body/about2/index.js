@@ -13,7 +13,7 @@ function About2() {
           </div>
           <div className='about-info'>
               <p style={{textAlign: 'center'}}>Know Who <span style={{color:'blue'}}>I'm</span></p>
-              <section>Hi Everyone, I am <span style={{color:'blue'}}>Arun Pandian</span> from <span style={{color:'blue'}}>Tamilnadu</span></section>
+              <section >Hi Everyone, I am <span style={{color:'blue'}}>Arun Pandian</span> from <span style={{color:'blue'}}>Tamilnadu</span></section>
               <section>Skilled MERN Stack Developer</section>
               <section>Masters in Industrial Engineering</section>
               <p>I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️</p>

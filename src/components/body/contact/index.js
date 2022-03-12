@@ -75,23 +75,23 @@ function Contact() {
         <label className='section-title_2' style={{textAlign: 'center', marginTop:"20px",opacity:".6"}}>Get in touch with me to get your ideas on fire</label>
         <div className='social-container-2' style={{display: 'flex', justifyContent:"space-evenly", marginLeft:"10%", marginRight:"10%", marginTop:"5%"}}>
           <div className='social-container-div' style={{display:"flex", flexDirection:"column", justifyContent:"center", alignItems: 'center'}}>
-            <a href="mailto:toarun25@gmail.com" target='_blank' rel="noreferrer">
+            <a href="mailto:toarun25@gmail.com" target='_blank' rel="noreferrer" style={{display:"flex", flexDirection:"column", alignItems: 'center',textDecoration: 'none',color:"inherit"}}>
             <img src={gm} className='social-icon-n' alt="social-icon" style={{height: '70px'}}/>
-            <label style={{marginTop:"4%", color:"blue"}}>toarun25@gmail.com</label>
+            <label style={{marginTop:"4%", color:"blue", cursor:"pointer"}}>toarun25@gmail.com</label>
             </a>
             
           </div>
           <div className='social-container-div' style={{display:"flex", flexDirection:"column", justifyContent:"center", alignItems: 'center'}}>
-            <a href="https://github.com/arun2516" target='_blank' rel="noreferrer">
+            <a href="https://github.com/arun2516" target='_blank' rel="noreferrer" style={{display:"flex", flexDirection:"column",alignItems: 'center',textDecoration: 'none',color:"inherit"}}>
             <img src={gi} className='social-icon-n' alt="social-icon" style={{height: '70px'}}/>
-            <label style={{marginTop:"10%", color:"blue"}}>arun2516</label>
+            <label style={{marginTop:"10%", color:"blue", cursor:"pointer"}}>arun2516</label>
             </a>
             
           </div>
           <div className='social-container-div' style={{display:"flex", flexDirection:"column", justifyContent:"center", alignItems: 'center'}}>
-            <a href="tel:+91 9578767150" target='_blank' rel="noreferrer">
+            <a href="tel:+91 9578767150" target='_blank' rel="noreferrer" style={{display:"flex", flexDirection:"column", alignItems: 'center',textDecoration: 'none',color:"inherit"}}>
             <img src={mob} className='social-icon-n' alt="social-icon" style={{height: '70px'}}/>
-            <label style={{marginTop:"4%", color:"blue"}}>+91 9578767150</label>
+            <label style={{marginTop:"4%", color:"blue", cursor:"pointer"}}>+91 9578767150</label>
             </a>
             
           </div>
