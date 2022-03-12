@@ -38,6 +38,9 @@
     .picture{
         height: 280px;
     }
+    .about-photo{
+        display: none;
+    }
     
     .about-info{
         font-size: 20px;

@@ -52,9 +52,9 @@
       justify-content: center;
       align-items: center;
     }
-    /* .about-photo{
+    .about-photo{
         display:none;
-    } */
+    }
     .social-icon{
         height: 32px;
     }
