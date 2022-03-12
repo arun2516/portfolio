@@ -14,7 +14,7 @@ function About() {
             <Typewriter
             strings={[
               'MERN Stack Web Developer',
-              'Continuously Learning',
+              'Continuous Learner',
             ]}
           /></div>
         
