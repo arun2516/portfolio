@@ -77,20 +77,23 @@ function Contact() {
           <div className='social-container-div' style={{display:"flex", flexDirection:"column", justifyContent:"center", alignItems: 'center'}}>
             <a href="mailto:toarun25@gmail.com" target='_blank' rel="noreferrer">
             <img src={gm} className='social-icon-n' alt="social-icon" style={{height: '70px'}}/>
-            </a>
             <label style={{marginTop:"4%", color:"blue"}}>toarun25@gmail.com</label>
+            </a>
+            
           </div>
           <div className='social-container-div' style={{display:"flex", flexDirection:"column", justifyContent:"center", alignItems: 'center'}}>
             <a href="https://github.com/arun2516" target='_blank' rel="noreferrer">
             <img src={gi} className='social-icon-n' alt="social-icon" style={{height: '70px'}}/>
-            </a>
             <label style={{marginTop:"10%", color:"blue"}}>arun2516</label>
+            </a>
+            
           </div>
           <div className='social-container-div' style={{display:"flex", flexDirection:"column", justifyContent:"center", alignItems: 'center'}}>
             <a href="tel:+91 9578767150" target='_blank' rel="noreferrer">
             <img src={mob} className='social-icon-n' alt="social-icon" style={{height: '70px'}}/>
-            </a>
             <label style={{marginTop:"4%", color:"blue"}}>+91 9578767150</label>
+            </a>
+            
           </div>
         </div>
         <div style={{width:"30%",height:"5%",backgroundColor:"black", border:"1px solid black", marginTop:"10%",marginLeft:"35%"}}></div>

@@ -27,7 +27,7 @@ function About() {
         <div className='about-bottom'>
 
        
-        <div style={{textAlign: 'center', fontSize: '25px', color:"blue"}}>
+        <div className="resume" style={{textAlign: 'center', fontSize: '25px', color:"blue"}}>
           Resume
         </div>
         <div className='social-contact'>
