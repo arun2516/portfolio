@@ -48,16 +48,6 @@ export const ProjectData=[
         githubf:"https://github.com/arun2516/carservice-front",
         githubb:"https://github.com/arun2516/carservice_back",
         image:require("../../assets/buckwebscr.png")
-    },
-    {
-        id:1,
-        title:"Bike_Rental",
-        about:"Bike_Rental is the Fullstack  MERN Website.This application Allows User to book bikes through this portal and manager can add bikes  ",
-        tags:["ReactJs","ExpressJs","MongoDb","NodeJs"],
-        demo:"https://festive-heyrovsky-f2336a.netlify.app/manager/bikes",
-        githubf:"https://github.com/arun2516/Bike_Rental_front",
-        githubb:"https://github.com/arun2516/Bike_Rental_Back",
-        image:require("../../assets/Bike.png")
     }
   
 
